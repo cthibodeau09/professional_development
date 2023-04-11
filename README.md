@@ -19,7 +19,7 @@ Please clone the repo to your computer, then install the inquirer package.
 ## Usage
 Once the repo has been cloned, and the installations are complete, simply use node to start the application. You will be prompted with numerous questions in order to create a complete README file that can be easily used for your project.
 
-## Contribution:
+## Contribution
 If at any time developers are to make any changes, please inform me via email.
 
 ## Credits
@@ -29,12 +29,12 @@ lines 3-5
 lines 39-44
 lines 66-72
 
-## Testing:
+## Testing
 N/A
 
 ## Features
 This project features questions used to create a README file, as well as the option to select and link which license you would prefer to use with your project. 
 
-## Questions:
+## Questions
 - Github: [cthibodeau09](https;//github.com/cthibodeau09)
 - Email: [cthibodeau09@gmail.com](mailto:user@example.com) 
